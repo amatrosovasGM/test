@@ -1,0 +1,7 @@
+{
+    "env": {
+        "compiler": "bit.envs/bundlers/vue@2.6.18"
+    },
+    "componentsDefaultDirectory": "components/{name}",
+    "packageManager": "npm"
+}
